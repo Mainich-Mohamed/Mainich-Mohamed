@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Mainich-Mohamed/Mainich-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://www.adamalston.com/observatory.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.adamalston.com/observatory.svg?theme=light"
+  />
+  <img
+    src="https://www.adamalston.com/observatory.svg"
+    alt="AA/O-01"
+    width="100%"
+  />
+</picture>
